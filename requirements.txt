@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+langchain
+langchain-community
+langchain-core
+langchain-openai
+pydantic
+python-dotenv
+sqlmodel
+alembic

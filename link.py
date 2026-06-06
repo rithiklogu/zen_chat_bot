@@ -1,0 +1,21 @@
+LINKS = [
+    "https://zenfuture.in/about.php",
+    "https://zenfuture.in/blog.php",
+    "https://zenfuture.in/careers.php",
+    "https://zenfuture.in/cloud-solution.php",
+    "https://zenfuture.in/contact.php",
+    "https://zenfuture.in/digital-transformation.php",
+    "https://zenfuture.in/finacle-core-banking.php",
+    "https://zenfuture.in/index.php",
+    "https://zenfuture.in/index.php#nav",
+    "https://zenfuture.in/index.php#offcanvasExample",
+    "https://zenfuture.in/index.php#our-service",
+    "https://zenfuture.in/it-consulting.php",
+    "https://zenfuture.in/products.php",
+    "https://zenfuture.in/products.php#accounting",
+    "https://zenfuture.in/products.php#crm",
+    "https://zenfuture.in/products.php#inventory",
+    "https://zenfuture.in/products.php#invoice",
+    "https://zenfuture.in/products.php#pos",
+    "https://zenfuture.in/saas-service.php"
+]

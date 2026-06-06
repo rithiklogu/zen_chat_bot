@@ -1,0 +1,20 @@
+[project]
+name = "zen-chat-bot"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "alembic>=1.18.4",
+    "beautifulsoup4>=4.14.3",
+    "fastapi>=0.136.3",
+    "ollama>=0.6.2",
+    "psycopg2>=2.9.12",
+    "psycopg[binary]>=3.3.4",
+    "pydantic-settings>=2.14.1",
+    "pydantic[email]>=2.13.4",
+    "requests>=2.34.2",
+    "selenium>=4.44.0",
+    "sqlalchemy>=2.0.50",
+    "sqlmodel>=0.0.38",
+]
